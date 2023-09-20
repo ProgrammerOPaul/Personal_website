@@ -6,6 +6,10 @@ body {
   height: 100%;
 }
 
+a > img{
+  height: 30px;
+}
+
 .filter-white {
   filter: invert(73%) sepia(98%) saturate(1%) hue-rotate(318deg)
     brightness(101%) contrast(103%);
@@ -15,10 +19,14 @@ body {
   color: #eeeeee;
 }
 
-.neon {
-  color: #068fff;
+.blue {
+  color: #4E4FEB;
 }
 
-.des {
+.cream {
   color: #ccc8aa !important;
+}
+
+.neon{
+  color: #068fff;
 }
