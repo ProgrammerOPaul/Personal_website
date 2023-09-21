@@ -11,8 +11,7 @@ a > img{
 }
 
 .filter-white {
-  filter: invert(73%) sepia(98%) saturate(1%) hue-rotate(318deg)
-    brightness(101%) contrast(103%);
+  filter: invert(38%) sepia(84%) saturate(2441%) hue-rotate(191deg) brightness(104%) contrast(103%);
 }
 
 .white {
