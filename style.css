@@ -1,13 +1,11 @@
+
 body {
   background-image: url("images/black_sky.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  height: 100%;
-}
-
-.blur{
   backdrop-filter: blur(5px);
-}
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+} 
+
 
 a > img{
   height: 30px;
